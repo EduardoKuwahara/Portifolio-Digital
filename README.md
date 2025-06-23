@@ -60,5 +60,5 @@ Também participei da revisão de bugs críticos, corrigindo desde anomalias vis
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-kuwahara-junior-3b2267303/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardokuwaharajr57@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkjPzTSfJHsGfTGZlSdBJTJcmSpRwLwVJfRplMDPgpBwKjcczGnkllTxLqRnzxkkXtVbV)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoKuwahara)  

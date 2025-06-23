@@ -1,7 +1,7 @@
 # Eduardo Kuwahara Junior 👋
 
 📚 Estudante de **Desenvolvimento de Software Multiplataforma**  
-📍 Fatec SJC - São José dos Campos  
+📍 FATEC São José dos Campos - Prof. Jessen Vidal
 
 ---
 

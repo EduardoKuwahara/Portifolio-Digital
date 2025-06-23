@@ -14,10 +14,10 @@
 Realizar melhorias, otimizar e implementar novos recursos ao sistema de controle de ponto e gestão de equipe existente na empresa. 
 
 🛠 **Tecnologias:**  
-`Java` `Sping` `MongoDB` `RabbitMQ` `Docker` `TypeScript` `Next` `JavaScript` `Figma`
+`Java` `Spring` `MongoDB` `RabbitMQ` `Docker` `TypeScript` `Next` `JavaScript` `Figma`
 
 🎯 **Contribuições:**  
-- Desenvolvimento full-stack (backend + frontend).
+- Desenvolvimento full-stack (back-end + front-end).
 - Criação de modelos relacionais e não relacionais das entidades do core do projeto (EX: time punchs, workday logs, holidays, collaborators...).  
 - Implementação e criação de controllers para requisições do front-end com as rotas disponibilizadas com o back-end.
 - Revisão de bugs e correções de anomalias visuais e padronização.
@@ -29,10 +29,10 @@ Realizar melhorias, otimizar e implementar novos recursos ao sistema de controle
 
 ## 🛠 Habilidades Técnicas
 
-**Frontend:**  
+**Fron-tend:**  
 `React` `HTML/CSS` `TailwindCSS` `Bootstrap`
 
-**Backend:**  
+**Back-end:**  
 `Node.js` `Python` `Flask` `Java` `Spring Boot` `TypeScript`
 
 **Banco de Dados:**  
